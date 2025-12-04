@@ -32,3 +32,8 @@ Computer Engineering student (B.Sc. +4) at UTC | Interested in software developm
 - **Linux / Unix** — System administration, development environment  
 
 ---
+## 🗣️ Languages
+- **Spanish** — Native
+- **French** — Advanced (C1)
+- **English** — Intermediate/Advanced (B2–C1)
+
