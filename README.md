@@ -2,7 +2,8 @@
 Welcome to my GitHub!
 
 ## 🚀 About Me
-Computer Engineering student (B.Sc. +4) at UTC | Interested in software development, web applications, and cybersecurity | Looking for a 2026 internship.
+Computer Engineering student (4th year) at UTC | Interested in software development, web applications, and cybersecurity | Looking for a 2026 internship.
+
 
 ---
 
