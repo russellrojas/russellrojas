@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Russell Rojas  
+# 👋 Hey, I'm Russell Rojas  
 Welcome to my GitHub!
 
 ## 🚀 About Me
