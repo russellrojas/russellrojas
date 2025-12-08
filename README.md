@@ -1,6 +1,8 @@
 # 👋 Hey, I'm Russell Rojas  
 Welcome to my GitHub!
 
+You can see the online version here: [Mon portfolio](https://russellrojas.github.io/portfolio/)
+
 ## 🚀 About Me
 Computer Engineering student (4th year) at UTC | Interested in software development, web applications, and cybersecurity | Looking for a 2026 internship.
 
